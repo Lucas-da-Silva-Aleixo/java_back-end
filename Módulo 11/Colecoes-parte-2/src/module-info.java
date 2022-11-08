@@ -1,0 +1,2 @@
+module colecoesParte2 {
+}
